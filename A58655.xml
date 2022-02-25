@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter, Dunkirke, Novemb. 19th, 1688</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58655</idno>
+            <idno type="STC">Wing S131</idno>
+            <idno type="STC">ESTC R8010</idno>
+            <idno type="EEBO-CITATION">11902874</idno>
+            <idno type="OCLC">ocm 11902874</idno>
+            <idno type="VID">50608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter, Dunkirke, Novemb. 19th, 1688</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: R.S.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50608:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>A Letter.</head>
+            <opener>
+               <dateline>Dunkirke, <date>Novemb. 19th. 1688.</date>
+               </dateline>
+               <lb/>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>SInce my landing at <hi>New-Port,</hi> I went to ſee <hi>Oſtend,</hi> where I delivered your Letter to Mr. <hi>H—lton,</hi> who hath paid me the money you order'd me to receive, and when you write to him, pray return him thanks for all his favours; I ſound him a civil Gen<g ref="char:EOLhyphen"/>tleman, and a moderate Papiſt. At <hi>New-Port,</hi> I met with a Relation at the Nunnery who would not acknowledge the Family, but the reaſon of her eſcape was on a Love account. Here I have been a Week, and have kept my ſelf from any <hi>Engliſh</hi> Company, except Mr. <hi>H—ford,</hi> for indeed, I have little ſatisfaction to ſee things threaten ſo much our ruine, as now they do, if things be true as reported from <hi>London:</hi> And this King has again ſolemnly ſworn, That he will hazard his Kingdom, rather than ſuffer the name of a Proteſtant to be in <hi>Europe.</hi> I was at Dinner at <hi>Monſieur Jacques Platt</hi>'s Houſe, where was a Gentleman newly come from <hi>Paris,</hi> and he reports that the King was much inraged upon the news that the Prince of <hi>Orange</hi> was Landed, ſaying, That he was re<g ref="char:EOLhyphen"/>ſolved to give no Quarter to any Proteſtants; and I am credibly informed, that the new Converts are order'd to be put a Board the Fleet. I was to ſee the Risband here, which is one of the beſt Fortifications that I did ever ſee; and indeed, the charge of the Forti<g ref="char:EOLhyphen"/>fications of this City, Cittadel and Port, cannot be equalled. The Port reaches above half a mile, defended with two Forts at the entrance; and now, above two hundred Veſſels may be ſecure. Though as yet the War is not Proclaimed, here are ſeveral <hi>Dutch</hi> Veſſels taken, and the poor Mariners are moſt hardly dealt with, being kept cloſe Priſoners. Many Privateers are fitting out here, and they force the <hi>Dutch</hi> Ma<g ref="char:EOLhyphen"/>riners to go aboard to get them in readineſs. I am almoſt affrighted to proceed any further into <hi>France,</hi> for fear of being ſeized as ſome Gentlemen have lately been, and moſt barbarouſly uſed, ſo as now I will omit going to St. <hi>Omers,</hi> reſolving to tarry here and at <hi>Furne,</hi> till I have your anſwer. Pray give my Salutes to all Friends, and let me hear from you by the next Poſt. I am</p>
+            <closer>
+               <signed>Your Faithful Humble Servant <hi>R. S.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>P. S.</hi> The Poſt being gone, I reſolve to ſend this by an Honeſt Maſter of a Ship, who has promiſed to deliver it into your own Hands, with a ſmall Token which I have ſent you: and now I have to add, That the King of <hi>France</hi> hath Proclaimed Wars with <hi>Holland;</hi> and Orders are given out, That all the Priſoners who will not abjure their Religion, ſhall be ſent to <hi>Marſeglia,</hi> to be put into the Gallys. It would make any heart relent to hear of the Cruelties they have uſed to ſeveral already taken; moſt fear he will give no Quarter in <hi>Holland,</hi> ſo inviterated is he againſt the Proteſtants; and was heard to ſay, That if the people of <hi>England</hi> ſhould joyn with the Prince of <hi>Orange</hi> for a Parliament, he would burn every <hi>Engliſhman,</hi> that was in his Country, alive. I am now going to <hi>New-Port,</hi> in Company with one <hi>Monſieur Van Suſteren,</hi> of <hi>Bridges,</hi> who is a very able Merchant, and has promiſed me his Protection there; from whence I will write to you more at large. I have only to add, that the Maſter of the Veſſel is a very Honeſt Man, and I will be glad if you can ſerve him in his Employ. Pray my Service to Sir <hi>J. W.</hi> and reſt of the Clubb. Again adieu</p>
+               <closer>
+                  <signed>R. S.</signed> 
+                  <dateline>
+                     <date>25th of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1688.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
